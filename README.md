@@ -1,14 +1,16 @@
 # Hi, I'm Ahmet Emre Çekçi 👋
 
-Electronic and Communications Engineering student at Politecnico di Torino 
+Electronic and Communications Engineering student at Politecnico di Torino 🇮🇹
 
 Founder & Team Lead at **DEE Dynamics**
+
+Building intelligent systems through embedded engineering and AI.
 
 ---
 
 ## About Me
 
-I'm passionate about designing intelligent systems that combine embedded electronics with artificial intelligence.
+I'm passionate about developing intelligent systems at the intersection of embedded electronics and artificial intelligence.
 
 My interests include:
 
@@ -17,7 +19,7 @@ My interests include:
 - Machine Learning
 - Edge AI / TinyML
 - Robotics
-- IoT
+- Internet of Things (IoT)
 - Industrial Automation
 
 ---
@@ -25,25 +27,25 @@ My interests include:
 ## Currently Working On
 
 - Smart Energy Monitor
-- Embedded AI Applications
-- Open-source engineering projects with DEE Dynamics
+- Embedded AI & TinyML
+- Open-source engineering projects at DEE Dynamics
 
 ---
 
 ## Tech Stack
 
-**Languages**
+### Languages
 - C
 - C++
 - Python
 - MATLAB
 
-**Embedded**
+### Embedded
 - STM32
 - ESP32
 - Arduino
 
-**Tools**
+### Tools
 - Git
 - GitHub
 - KiCad
@@ -53,4 +55,5 @@ My interests include:
 
 ## Connect
 
-📫 Founder & Team Lead — DEE Dynamics
+- 💼 LinkedIn: https://linkedin.com/in/ahmetemrecekci
+- 🏢 DEE Dynamics: https://github.com/DEE-Dynamics
