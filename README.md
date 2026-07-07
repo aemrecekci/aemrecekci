@@ -1,6 +1,6 @@
 # Hi, I'm Ahmet Emre Çekçi 👋
 
-Electronic and Communications Engineering student at Politecnico di Torino 🇮🇹
+Electronic and Communications Engineering student at Politecnico di Torino 
 
 Founder & Team Lead at **DEE Dynamics**
 
